@@ -7,7 +7,9 @@ Databricks supports Git integration. In this tutorial, we will talk about how to
 * How to push updates to a remote repository?
 * How to create and merge a pull request?
 * How to pull remote repository changes into Databricks?
-Resources for this post:
-
 Let’s get started!
 
+## Step 1: Enable Files In Repos
+Databricks Repos only sync notebooks with a remote Git repository by default. To allow other file formats such as .py, .csv, and .md in the Repo, we need to change the Repos settings in the Admin Console.
+
+## Step 1.1: Open the Admin Console by clicking Settings, then Admin Console.
