@@ -9,7 +9,7 @@ Databricks supports Git integration. In this tutorial, we will talk about how to
 * How to pull remote repository changes into Databricks?
 Let’s get started!
 
-### Step 1: Enable Files In Repos
+## Step 1: Enable Files In Repos
 Databricks Repos only sync notebooks with a remote Git repository by default. To allow other file formats such as .py, .csv, and .md in the Repo, we need to change the Repos settings in the Admin Console.
 
 ### Step 1.1: Open the Admin Console by clicking Settings, then Admin Console.
@@ -27,17 +27,19 @@ Databricks Repos only sync notebooks with a remote Git repository by default. To
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Ph4tQGlvoCs_DwuN.png" width="500" height="300" align="middle">
 </div>
 
-### Step 2: Create A Branch On Databricks
+## Step 2: Create A Branch On Databricks
 In the second step, we will create a branch on Databricks.
 
 ### Step 2.1: Click Repos, then the user name, and main.
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*jtf3ltBilzG8Fifm.png" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 2.2: Type a branch name and press the enter key to create the branch.
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
+<div align="center">
+<img src="https://github.com/Govind66/DBx_Repo/assets/71077779/a77c8df6-ac23-4090-be45-49feb2d37abf" width="500" height="300" align="middle">
+</div>
 ### Step 2.3: To switch between branches, click the downward arrow and select the branch name. We selected the test_branch here. Click the Close button to close the window.
 
 Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
