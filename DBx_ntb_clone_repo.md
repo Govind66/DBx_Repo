@@ -17,7 +17,7 @@ Databricks Repos only sync notebooks with a remote Git repository by default. To
 <div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*EA7_Ruit_b1Q9i8p.png" width="500" height="300" align="middle">
 </div>
-### Step 1.2: Click Workspace Settings on the menu
+### Step 1.2: Click Workspace Settings on the menu.
 <div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*Ki5dCG6H92rkeY-G.png" width="750" height="100" align="middle">
 </div>
@@ -47,7 +47,7 @@ In the second step, we will create a branch on Databricks.
 </div>
 
 ## Step 3: Create A Notebook In Databricks Repo
-In the second step, we will create a new notebook in the test branch.
+In the third step, we will create a new notebook in the test branch.
 
 There are three ways to create a new notebook in the repo, creating a notebook from scratch, importing an existing notebook, or cloning a notebook from Workspace.
 
@@ -82,7 +82,7 @@ A new window will pop up. Give the cloned notebook a new name, then select Repos
 </div>
 
 ## Step 4: Push Updates To Remote Repository
-In the third step, we will push updates to the remote repository.
+In the fourth step, we will push updates to the remote repository.
 
 ### Step 4.1: Click the branch name to open the repo window. We can see that the newly added example notebook is shown as the changed file. Provide a summary and click the blue Commit & Push button.
 <div align="center">
