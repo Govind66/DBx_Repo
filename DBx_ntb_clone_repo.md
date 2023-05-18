@@ -17,7 +17,7 @@ Databricks Repos only sync notebooks with a remote Git repository by default. To
 <div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*EA7_Ruit_b1Q9i8p.png" width="500" height="300" align="middle">
 </div>
-### Step 1.2: Click Workspace Settings on the menu.
+### Step 1.2: Click Workspace Settings on the menu
 <div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*Ki5dCG6H92rkeY-G.png" width="750" height="100" align="middle">
 </div>
