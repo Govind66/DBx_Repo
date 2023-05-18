@@ -14,5 +14,5 @@ Databricks Repos only sync notebooks with a remote Git repository by default. To
 
 ### Step 1.1: Open the Admin Console by clicking Settings, then Admin Console.
 <div align="center">
-<img src="[https://github.com/paulvid/emr_to_cdp/raw/master/data/cloudera_logo_darkorange.png](https://miro.medium.com/v2/resize:fit:720/format:webp/0*EA7_Ruit_b1Q9i8p.png)" width="820" height="100" align="middle">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*EA7_Ruit_b1Q9i8p.png" width="820" height="100" align="middle">
 </div>
