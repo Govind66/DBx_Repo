@@ -38,100 +38,121 @@ In the second step, we will create a branch on Databricks.
 ### Step 2.2: Type a branch name and press the enter key to create the branch.
 
 <div align="center">
-<img src="https://github.com/Govind66/DBx_Repo/assets/71077779/a77c8df6-ac23-4090-be45-49feb2d37abf" width="500" height="300" align="middle">
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*7HYKgo3jFMAAxvB6.png" width="500" height="300" align="middle">
 </div>
 ### Step 2.3: To switch between branches, click the downward arrow and select the branch name. We selected the test_branch here. Click the Close button to close the window.
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*fGfroRTZee2TBS0Z.png" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
-### Step 3: Create A Notebook In Databricks Repo
+## Step 3: Create A Notebook In Databricks Repo
 In the second step, we will create a new notebook in the test branch.
 
 There are three ways to create a new notebook in the repo, creating a notebook from scratch, importing an existing notebook, or cloning a notebook from Workspace.
 
 ### Step 3.1: To create a notebook from scratch, go to Repos, user name, click the downward arrow near the branch name, select Create, then Notebook.
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*NryMc_huEb0rJvdH.png" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 3.2: To import an existing notebook, go to Repos, user name, click the downward arrow near the branch name, then select Import.
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*EPVIG3aZi6iDqoUy.png" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 We can either import a file or import from a URL.
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*zJhL4ofIIb4oGV3O.png" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 3.3: To clone a notebook from the Workspace, go to Workspace, then user name. Click the downward arrow next to the notebook name and select Clone.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 A new window will pop up. Give the cloned notebook a new name, then select Repos, user name, and the repo name. Click the blue Clone button to clone the notebook.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 3.4: To check if the notebook has been created, go to Repos, user name, then click the repo name. We can see that notebook has been successfully cloned to the branch.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
-### Step 4: Push Updates To Remote Repository
+## Step 4: Push Updates To Remote Repository
 In the third step, we will push updates to the remote repository.
 
 ### Step 4.1: Click the branch name to open the repo window. We can see that the newly added example notebook is shown as the changed file. Provide a summary and click the blue Commit & Push button.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
-### Step 5: Create And Merge Pull Request
+## Step 5: Create And Merge Pull Request
 ### Step 5.1: Go to the GitHub repo that is connected to Databricks, and you will see a message about the push. Click the green Compare & pull request button to open a pull request.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 5.2: On the Open a pull request page, click the green Create pull request button to create a pull request.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 5.3: After the pull request is approved, click the green Merge pull request button.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 Then click the green Confirm merge button.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 5.4: After the merge is confirmed, we will see a purple Merged button showing that the pull request is successfully merged and closed. We can click the Delete branch button to delete the branch.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 5.5: Click the repository name, and we can see the notebook show up in the repository.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 5.6: Go to Databricks and switch to the main branch, we can see the newly added notebook now show up in the main branch.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 6: Pull Remote Repository Changes Into Databricks
 In step 6, let’s make some changes to the README file on GitHub, and pull the changes into Databricks.
 
-### Step 6.1: Go to the GitHub repository for Databricks and click the pencil icon for the README file.
+## Step 6.1: Go to the GitHub repository for Databricks and click the pencil icon for the README file.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 6.2: I added the sentence “This is a new sentence added in GitHub.” and click the green Commit changes button.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 6.3: Go back to Databricks and click Repos, user name, then main. In the popup window, click Pull.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 6.4: A warning window pops up and ask if we want to “Preceded with pulling?”, click the blue Confirm button to start pulling the changes.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 6.5: After finishing pulling the changes, close the repo window then click the README file.
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 We can see that the new sentence we added on GitHub are pulled into Databricks.
-
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
+<div align="center">
+<img src="" width="500" height="300" align="middle">
+</div>
