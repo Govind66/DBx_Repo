@@ -17,19 +17,18 @@ Databricks Repos only sync notebooks with a remote Git repository by default. To
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*EA7_Ruit_b1Q9i8p.png" width="500" height="300" align="middle">
 </div>
 ### Step 1.2: Click Workspace Settings on the menu.
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*Ki5dCG6H92rkeY-G.png" width="500" height="300" align="middle">
+</div>
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
 ### Step 1.3: Go to the Repos section and enable Files in Repos. After it is enabled, we can sync any file type with the remote Git repository. We can also view and edit text files in the UI.
 
-Databricks GitHub Repo Operations. How to create a branch, a notebook, push updates, and merge a pull request in Databricks repo?
-Databricks GitHub Repo Operations — GrabNGoInfo.com
-Join Medium with my referral link - Amy @GrabNGoInfo
-Read every story from Amy (and thousands of other writers on Medium). Your membership fee directly supports Amy and…
-medium.com
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Ph4tQGlvoCs_DwuN.png" width="500" height="300" align="middle">
+</div>
 
 ### Step 2: Create A Branch On Databricks
-In the first step, we will create a branch on Databricks.
+In the second step, we will create a branch on Databricks.
 
 ### Step 2.1: Click Repos, then the user name, and main.
 
