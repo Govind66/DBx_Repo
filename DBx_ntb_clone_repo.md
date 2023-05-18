@@ -32,7 +32,7 @@ In the second step, we will create a branch on Databricks.
 
 ### Step 2.1: Click Repos, then the user name, and main.
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*jtf3ltBilzG8Fifm.png" width="500" height="300" align="middle">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*jtf3ltBilzG8Fifm.png" width="800" height="300" align="middle">
 </div>
 
 ### Step 2.2: Type a branch name and press the enter key to create the branch.
