@@ -24,7 +24,7 @@ Databricks Repos only sync notebooks with a remote Git repository by default. To
 ### Step 1.3: Go to the Repos section and enable Files in Repos. After it is enabled, we can sync any file type with the remote Git repository. We can also view and edit text files in the UI.
 
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Ph4tQGlvoCs_DwuN.png" width="300" height="200" align="middle">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Ph4tQGlvoCs_DwuN.png" width="400" height="200" align="middle">
 </div>
 
 ## Step 2: Create A Branch On Databricks
